@@ -239,7 +239,7 @@ App.component.html coding:
 <Cone-Vol>
 
 </Cone-Vol>
-<div class="footer">DEVELOPED BY: JEEVA ABISHAKE.A</div>
+<div class="footer">DEVELOPED BY: Shaik sameer</div>
 
     </div>
 
