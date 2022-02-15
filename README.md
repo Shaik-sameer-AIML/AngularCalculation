@@ -272,8 +272,9 @@ export class AppModule { }
 ```
 ## OUTPUT:
 
-### Home Page:
-
-
+### without output:
+![output](https://github.com/Shaik-sameer-AIML/AngularCalculation/blob/main/M1.JPG?raw=true)
+### with output:
+![output](https://github.com/Shaik-sameer-AIML/AngularCalculation/blob/main/M2.JPG?raw=true)
 ## Result:
 To design a dynamic website to perform mathematical calculations using Angular Framwork is successfully created.
